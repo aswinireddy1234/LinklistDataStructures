@@ -1,5 +1,5 @@
 package linkedlist;
-public class Linklist<T> {
+public class  CreateLinklist<T> {
     public Node<T> head;
     public Node<T> tail;
 
